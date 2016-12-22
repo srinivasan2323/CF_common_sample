@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Spring Music
 ============
 
@@ -118,3 +119,6 @@ Database drivers for MySQL, Postgres, MongoDB, and Redis are included in the pro
 you will need to download the appropriate driver (e.g. from http://www.oracle.com/technetwork/database/enterprise-edition/jdbc-112010-090769.html?ssSourceSiteId=otnjp),
 add the driver .jar file to the `src/main/webapp/WEB-INF/lib` directory in the project, and re-build the
 application .war file using `./gradlew assemble`.
+=======
+# CF_common_sample
+>>>>>>> branch 'master' of https://github.com/srinivasan2323/CF_common_sample.git
