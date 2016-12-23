@@ -23,6 +23,6 @@ public class MongoConfig {
 
 System.out.println("eqjmnofdhn");
 
-System.out.println("eqjmnofdhn");
+
 
 }
