@@ -18,5 +18,7 @@ public class MongoConfig {
         return new MongoTemplate(mongoDbFactory);
     }
     public String empname7;
+
 System.out.println("eqjmnofdhn");
+
 }
