@@ -26,6 +26,8 @@ public class MongoConfig {
 System.out.println("eqjmnofdhn");
 private int studentid7;
 
+private int add;
+
 
 
 
