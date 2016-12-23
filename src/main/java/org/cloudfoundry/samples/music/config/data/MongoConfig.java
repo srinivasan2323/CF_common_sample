@@ -17,6 +17,6 @@ public class MongoConfig {
     public MongoTemplate mongoTemplate(MongoDbFactory mongoDbFactory) {
         return new MongoTemplate(mongoDbFactory);
     }
-    public String empname;
+    public String empname7;
 
 }
