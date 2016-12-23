@@ -21,6 +21,7 @@ public class MongoConfig {
 
     
     private int empid;
+    private int empid1;
 
 System.out.println("eqjmnofdhn");
 
